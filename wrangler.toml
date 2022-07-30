@@ -1,7 +1,7 @@
 name = "cf-status"
 type = "webpack"
 workers_dev = true
-account_id = "4e599df4216133509abaac54b109a647"
+account_id = "cbfa45e77e3a969754802b898a05bf57"
 
 kv_namespaces = [
   { binding = "KV", id = "cd16d4566ec0408d84989e51f82488bc" }
